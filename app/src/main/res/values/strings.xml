@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Denntaku2</string>
+    <string name="numb1">1</string>
+    <string name="numb2">2</string>
+    <string name="numb3">3</string>
+    <string name="equal2">=</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">×</string>
+    <string name="div">÷</string>
+    <string name="del">Delete</string>
+</resources>

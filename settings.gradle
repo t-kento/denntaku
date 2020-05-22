@@ -1,0 +1,2 @@
+rootProject.name='Denntaku2'
+include ':app'
